@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Julio Guiorla!
+👋 ¡Hola, soy Julio Guiorla!
 
 ```rust
 let julio = Developer {
