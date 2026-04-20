@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Julio Guiorla!
 
-<!--
-**julioguirola/julioguirola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```rust
+let julio = Developer {
+    role: Role::FullStack,
+    preference: Preference::Backend,
+    stack: vec![
+        Language::Rust,
+        Language::TypeScript,
+        Language::JavaScript,
+        Language::Python,
+        Language::Go,
+    ],
+    philosophy: Philosophy::Minimalist,
+};
+```
 
-Here are some ideas to get you started:
+## `$ whoami`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy desarrollador **Full Stack** con el corazón puesto en el **Backend**.  
+Disfruto diseñando arquitecturas limpias, APIs eficientes y sistemas que escalan sin romper la estética del código.
+
+Mi enfoque es minimalista:  
+- Menos boilerplate.  
+- Más claridad.  
+- Cero distracciones visuales en la terminal.
+
+---
+
+## `$ cat stack.txt`
+
+| Área       | Herramientas                                                                 |
+|------------|-------------------------------------------------------------------------------|
+| **Lenguajes** | Rust • TypeScript / JavaScript • Python • Go                                   |
+| **Infra**     | Docker • Linux • CI/CD básico pero sólido                                     |
+| **DBs**       | PostgreSQL • SQLite • Redis                                                   |
+| **OS / Tools**| Arch (btw) • Neovim                          |
+
+
+---
+
+## `$ ls -la infra/`
+
+Me encanta todo lo que tenga que ver con **Docker** e infraestructura.  
+Contenedores, orquestación simple, redes internas, volúmenes bien puestos...  
+Si se puede correr en un `docker-compose up`, probablemente ya lo tengo andando en local.
+
+---
+
+## `$ git log -1 --pretty=format:'%an <%ae>'`
+
+Podés encontrarme por acá:
+
+- **Instagram**: [@julioguiorla9](https://instagram.com/julioguirola9)  
+- **GitHub**: Obviamente, ya estás en el lugar correcto.
+
+---
+
+```go
+func main() {
+    for {
+        code()
+        refactor()
+        simplify()
+    }
+}
+```
