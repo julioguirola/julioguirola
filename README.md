@@ -34,7 +34,7 @@ Mi enfoque es minimalista:
 | **Lenguajes** | Rust • TypeScript / JavaScript • Python • Go                                   |
 | **Infra**     | Docker • Linux • CI/CD básico pero sólido                                     |
 | **DBs**       | PostgreSQL • SQLite • Redis                                                   |
-| **OS / Tools**| Arch (btw) • Neovim                          |
+| **OS / Tools**| Kubuntu • Neovim • vscode                   |
 
 
 ---
