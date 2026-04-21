@@ -9,6 +9,9 @@ let julio = Developer {
         Language::JavaScript,
         Language::Python,
         Language::Go,
+        DB:Postgres,
+        DB:Redis,
+        Infra:Docker,
     ],
     philosophy: Philosophy::Minimalist,
 };
