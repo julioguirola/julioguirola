@@ -6,8 +6,6 @@ let julio = Developer {
     stack: vec![
         Language::Rust,
         Language::TypeScript,
-        Language::JavaScript,
-        Language::Python,
         Language::Go,
         DB:Postgres,
         DB:Redis,
