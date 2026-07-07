@@ -17,4 +17,4 @@ let julio = Developer {
 };
 ```
 - **Instagram**: [@julioguiorla9](https://instagram.com/julioguirola9)
-- **Web**: [portfolio]((https://julio-portfolio-five.vercel.app/))
+- **Web**: [portfolio](https://julio-portfolio-five.vercel.app/)
