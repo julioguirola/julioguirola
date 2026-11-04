@@ -6,12 +6,13 @@ let julio = Developer {
     stack: vec![
         Language::Rust,
         Language::TypeScript,
-        Language::Go,
+        Language::PYTHON,
         DB:Postgres,
         DB:Redis,
         Infra:Docker,
+        AI:RAG
+        AI:AGENTS
     ],
-    philosophy: Philosophy::Minimalist,
 };
 ```
 - **Instagram**: [@julioguiorla9](https://instagram.com/julioguirola9)
